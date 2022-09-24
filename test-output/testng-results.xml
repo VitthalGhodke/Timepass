@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33405" started-at="2022-08-31T14:12:03 IST" finished-at="2022-08-31T14:12:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33405" started-at="2022-08-31T14:12:03 IST" finished-at="2022-08-31T14:12:37 IST">
+      <class name="testng.ActiTimeLogIn">
+        <test-method status="PASS" signature="loginLogoutInActitimeApplication()[pri:0, instance:testng.ActiTimeLogIn@27a8c74e]" name="loginLogoutInActitimeApplication" duration-ms="20502" started-at="2022-08-31T14:12:03 IST" finished-at="2022-08-31T14:12:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogoutInActitimeApplication -->
+        <test-method status="PASS" signature="loginPageValidationInActitimeApplication()[pri:0, instance:testng.ActiTimeLogIn@27a8c74e]" name="loginPageValidationInActitimeApplication" duration-ms="12848" started-at="2022-08-31T14:12:24 IST" finished-at="2022-08-31T14:12:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidationInActitimeApplication -->
+      </class> <!-- testng.ActiTimeLogIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
